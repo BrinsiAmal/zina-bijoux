@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Collier Soleil",
+    "category": "colliers",
+    "finish": "dore",
+    "price": 39,
+    "image": "/img/p1.jpg",
+    "isNew": true,
+    "focus": "50% 80%"
+  },
+  {
+    "id": 2,
+    "name": "Collier Lune",
+    "category": "colliers",
+    "finish": "dore",
+    "price": 35,
+    "image": "/img/p2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Collier Trèfle",
+    "category": "colliers",
+    "finish": "dore",
+    "price": 42,
+    "image": "/img/p3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Collier Goutte",
+    "category": "colliers",
+    "finish": "dore",
+    "price": 29,
+    "image": "/img/p4.jpg",
+    "oldPrice": 38
+  },
+  {
+    "id": 5,
+    "name": "Boucles Perle",
+    "category": "boucles",
+    "finish": "dore",
+    "price": 25,
+    "image": "/img/p5.jpg",
+    "isNew": true
+  },
+  {
+    "id": 6,
+    "name": "Boucles Cristal",
+    "category": "boucles",
+    "finish": "dore",
+    "price": 32,
+    "image": "/img/p6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Boucles Émeraude",
+    "category": "boucles",
+    "finish": "dore",
+    "price": 28,
+    "image": "/img/p7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Boucles Rubis",
+    "category": "boucles",
+    "finish": "dore",
+    "price": 22,
+    "image": "/img/p8.jpg",
+    "oldPrice": 30
+  },
+  {
+    "id": 9,
+    "name": "Bague Étoile",
+    "category": "bagues",
+    "finish": "dore",
+    "price": 19,
+    "image": "/img/p9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bague Saphir",
+    "category": "bagues",
+    "finish": "dore",
+    "price": 24,
+    "image": "/img/p10.jpg",
+    "isNew": true
+  },
+  {
+    "id": 11,
+    "name": "Bague Rose",
+    "category": "bagues",
+    "finish": "dore",
+    "price": 15,
+    "image": "/img/p11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bague Onyx",
+    "category": "bagues",
+    "finish": "dore",
+    "price": 18,
+    "image": "/img/p12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bracelet Perlé",
+    "category": "bracelets",
+    "finish": "dore",
+    "price": 34,
+    "image": "/img/p13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Bracelet Océan",
+    "category": "bracelets",
+    "finish": "argente",
+    "price": 37,
+    "image": "/img/p14.jpg",
+    "isNew": true
+  },
+  {
+    "id": 15,
+    "name": "Bracelet Jade",
+    "category": "bracelets",
+    "finish": "dore",
+    "price": 30,
+    "image": "/img/p15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Bracelet Fuchsia",
+    "category": "bracelets",
+    "finish": "dore",
+    "price": 26,
+    "image": "/img/p16.jpg",
+    "oldPrice": 33
+  }
+]
